@@ -1,0 +1,30 @@
+
+body {
+  height: 100vh;
+  background-image: url("https://images7.alphacoders.com/116/thumb-1920-1167841.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  /* background-size: 100% 100%; */
+}
+.navbar .navbar-brand {
+  font-size: 30px;
+}
+.navbar .nav-item {
+  padding: 10px 20px;
+}
+.navbar .nav-link {
+  font-size: 20px;
+  margin-left: 10px;
+}
+.fa-bars {
+  color: #007bff;
+  font-size: 30px;
+}
+
+.form{
+    margin: auto;
+    padding-top: 100px;
+    font-size: 20px;
+    width: 50vw;
+    color: #1b88fc;
+}
